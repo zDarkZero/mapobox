@@ -1,4 +1,11 @@
-mapa-mapbox {
-    width: 75 px;
-    height: 100 px;
+ion-toolbar{
+    --background:rgb(0, 0, 160);
+}
+
+ion-title{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(211, 211, 6);
 }
